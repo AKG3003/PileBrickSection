@@ -1,0 +1,14 @@
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+*.class
+*.iml
+*.pyc
+gradle/local.properties
+untracked_modules.gradle
+override_dependencies.gradle
+override_versions.gradle
+.SNAPSHOT_*/
